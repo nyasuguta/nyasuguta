@@ -20,16 +20,16 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/faithnyasuguta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="faithnyasuguta1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/nyasuguta"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 ---
-🧭 About Me
-🔭 Currently working on data pipelines, dashboards, and ML models that turn messy data into decisions
-☁️ Deploying and scaling workloads on AWS / Azure / GCP
-📊 Comfortable across the stack: ingestion → warehousing → analysis → visualization → ML
-🌱 Currently deepening skills in MLOps and cost-optimized cloud data architecture
-💬 Ask me about SQL optimization, ETL design, or cloud data platforms
-⚡ Fun fact: I'd rather write one clean query than ten messy ones
+🧭 About Me </br>
+  🔭 Currently working on data pipelines, dashboards, and ML models that turn messy data into decisions  </br>
+  ☁️ Deploying and scaling workloads on AWS / Azure / GCP  </br>
+  📊 Comfortable across the stack: ingestion → warehousing → analysis → visualization → ML  </br>
+  🌱 Currently deepening skills in MLOps and cost-optimized cloud data architecture  </br>
+  💬 Ask me about SQL optimization, ETL design, or cloud data platforms  </br>
+  ⚡ Fun fact: I'd rather write one clean query than ten messy ones  </br>
 ---
 🛠️ Tech Stack
 Languages & Data
@@ -69,27 +69,27 @@ Visualization & BI
 ---
 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nyasuguta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyasuguta&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyasuguta&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyasuguta&theme=tokyo-night&hide_border=true"/>
 </p>
 ---
-🏆 Featured Projects
-Project	Description	Stack
-Sales Forecasting Pipeline	End-to-end ETL + ML pipeline forecasting revenue from raw transactional data	Python, Airflow, AWS S3/Redshift, XGBoost
-Real-Time Analytics Dashboard	Streaming dashboard on cloud infra with sub-minute latency	Kafka, Spark Streaming, GCP, Looker
-NLP Model Deployment	Fine-tuned transformer served via containerized API	Hugging Face, Docker, Azure ML
+🏆 Featured Projects  </br>
+Project	Description	Stack </br>
+Sales Forecasting Pipeline	End-to-end ETL + ML pipeline forecasting revenue from raw transactional data	Python, Airflow, AWS S3/Redshift, XGBoost </br>
+Real-Time Analytics Dashboard	Streaming dashboard on cloud infra with sub-minute latency	Kafka, Spark Streaming, GCP, Looker </br>
+NLP Model Deployment	Fine-tuned transformer served via containerized API	Hugging Face, Docker, Azure ML  </br>
 ---
 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/nyasuguta/nyasuguta/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=nyasuguta&style=flat-square&color=blue" alt="profile views"/>
 </p>
